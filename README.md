@@ -5,9 +5,9 @@
 <h3>About me</h3>
 <ul>
   <li>🏫 A member of the Homyit Studio, which is in Jiangxi Normal University</li>
-  <li>🤠 Keep track of my growth, and meet at the summit</li>
   <li>🎃 I love writing JavaScript, and building fun experiments</li>
   <li>💬 Writing at <a href="https://wine-doubao.github.io/blog/">here</a></li>
+  <li>🤠 Keep track of my growth, and meet at the summit</li>
 </ul>
   
 <h3>Things I code with</h3>
